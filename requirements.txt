@@ -1,0 +1,4 @@
+flask
+kiteconnect
+requests
+gunicorn
