@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 
 # === Zerodha credentials ===
 api_key = "p723cf6z05exd4p7"
-access_token = "viUJdi3nX49boCidgKEp87IV92iAq7K7"   # replace daily when renewed
+access_token = "S0ihEZH4XkIRjIJFhTM2pfxCqTg65F31"   # replace daily when renewed
 
 kite = KiteConnect(api_key=api_key)
 kite.set_access_token(access_token)
